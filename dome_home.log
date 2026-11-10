@@ -1,0 +1,110 @@
+2026-08-26 20:52:41,771 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-26 20:53:03,332 | INFO | ⚠️ ERROR: Falta nombre o ID de huella.
+2026-08-26 20:53:13,062 | INFO | [REGISTRO] Preparando captura facial para yeider...
+2026-08-26 20:53:27,176 | INFO | ✅ ÉXITO: yeider registrado en la base de datos.
+2026-08-26 20:53:34,696 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-26 20:54:26,113 | INFO | ⚠️ ERROR: Falta nombre o ID de huella.
+2026-08-26 20:54:34,938 | INFO | ⚠️ ERROR: El ID de huella 1001 ya está registrado.
+2026-08-26 20:54:43,406 | INFO | [REGISTRO] Preparando captura facial para yeider...
+2026-08-26 20:55:01,302 | INFO | ✅ ÉXITO: yeider registrado en la base de datos.
+2026-08-26 20:55:13,389 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-26 23:32:34,796 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-26 23:32:44,841 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-26 23:32:53,953 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 78.70, umbral: 65)
+2026-08-26 23:32:53,975 | INFO | ❌ Acceso denegado: ninguna coincidencia confiable.
+2026-08-26 23:33:15,828 | INFO | ⚠️ ERROR: El ID de huella 1001 ya está registrado.
+2026-08-26 23:33:24,725 | INFO | [REGISTRO] Preparando captura facial para yeider...
+2026-08-26 23:33:30,277 | INFO | ✅ ÉXITO: yeider registrado en la base de datos.
+2026-08-26 23:33:33,154 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-26 23:33:37,014 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 26.96, umbral: 65)
+2026-08-26 23:33:37,033 | INFO | ✅ Acceso concedido a yeider.
+2026-08-27 01:02:22,854 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-27 01:02:23,635 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-08-27 01:02:39,872 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:02:56,211 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 36.89, umbral: 65)
+2026-08-27 01:02:56,231 | INFO | ✅ Acceso concedido a yeider.
+2026-08-27 01:03:14,559 | INFO | [REGISTRO] Preparando captura facial para juanito...
+2026-08-27 01:03:20,747 | INFO | ✅ ÉXITO: juanito registrado en la base de datos.
+2026-08-27 01:03:25,646 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:03:30,152 | INFO | > Coincidencia más cercana: juanito (distancia LBPH: 35.56, umbral: 65)
+2026-08-27 01:03:30,170 | INFO | ✅ Acceso concedido a juanito.
+2026-08-27 01:03:37,377 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:03:40,344 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 49.38, umbral: 65)
+2026-08-27 01:03:40,362 | INFO | ✅ Acceso concedido a yeider.
+2026-08-27 01:03:45,880 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:03:48,437 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 35.14, umbral: 65)
+2026-08-27 01:03:48,464 | INFO | ✅ Acceso concedido a yeider.
+2026-08-27 01:08:24,186 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-27 01:08:24,906 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-08-27 01:08:40,761 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:09:04,867 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 68.94, umbral: 65)
+2026-08-27 01:09:04,886 | INFO | ❌ Acceso denegado: ninguna coincidencia confiable.
+2026-08-27 01:09:08,054 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:09:10,752 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 48.82, umbral: 65)
+2026-08-27 01:09:10,772 | INFO | ✅ Acceso concedido a yeider.
+2026-08-27 01:09:13,873 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:09:16,301 | INFO | > Coincidencia más cercana: juanito (distancia LBPH: 44.88, umbral: 65)
+2026-08-27 01:09:16,319 | INFO | ✅ Acceso concedido a juanito.
+2026-08-27 01:09:20,310 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:09:23,930 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 50.38, umbral: 65)
+2026-08-27 01:09:23,948 | INFO | ✅ Acceso concedido a yeider.
+2026-08-27 01:09:25,447 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 01:09:27,271 | INFO | > Coincidencia más cercana: juanito (distancia LBPH: 48.95, umbral: 65)
+2026-08-27 01:09:27,289 | INFO | ✅ Acceso concedido a juanito.
+2026-08-27 01:12:56,646 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-27 01:12:57,367 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-08-27 01:18:22,071 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-27 01:18:22,744 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-08-27 01:26:37,223 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-27 01:26:37,847 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-08-27 01:26:49,547 | INFO | ✅ Acceso concedido vía Celular (remoto - MQTT).
+2026-08-27 12:10:19,050 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-27 12:10:20,058 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-08-27 12:10:24,318 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 12:10:29,828 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 56.57, umbral: 65)
+2026-08-27 12:10:29,849 | INFO | ✅ Acceso concedido a yeider.
+2026-08-27 12:10:34,980 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 12:10:39,371 | INFO | > Coincidencia más cercana: juanito (distancia LBPH: 53.38, umbral: 65)
+2026-08-27 12:10:39,390 | INFO | ✅ Acceso concedido a juanito.
+2026-08-27 12:10:45,572 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 12:10:47,573 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 58.66, umbral: 65)
+2026-08-27 12:10:47,597 | INFO | ✅ Acceso concedido a yeider.
+2026-08-27 12:11:22,823 | INFO | Sistema iniciado. Base de datos: /home/yeider/Documentos/visual studio code/dom home/dome_home.db
+2026-08-27 12:11:23,524 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-08-27 12:11:25,994 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-27 12:11:30,724 | INFO | > Coincidencia más cercana: yeider (distancia LBPH: 50.73, umbral: 65)
+2026-08-27 12:11:30,745 | INFO | ✅ Acceso concedido a yeider.
+2026-08-30 16:12:45,371 | INFO | Sistema iniciado. Base de datos: c:\Users\Usuario\Documents\visual studio code\dom home\dome_home.db
+2026-08-30 16:12:46,122 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-08-30 16:13:15,035 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-30 16:13:15,121 | INFO | ❌ ERROR: No se pudo acceder a la cámara.
+2026-08-30 16:13:19,502 | INFO | ⚠️ Escaneo cancelado.
+2026-08-30 16:13:42,959 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-08-30 16:13:42,999 | INFO | ❌ ERROR: No se pudo acceder a la cámara.
+2026-08-30 16:13:44,355 | INFO | ⚠️ Escaneo cancelado.
+2026-09-07 23:38:05,033 | INFO | Sistema iniciado. Base de datos: c:\Users\Usuario\Documents\visual studio code\dom home\dome_home.db
+2026-09-07 23:38:06,001 | INFO | 📡 Conectado al broker MQTT — control remoto activo.
+2026-09-07 23:38:34,393 | INFO | ⚠️ ERROR: Falta nombre o ID de huella.
+2026-09-07 23:38:37,773 | INFO | 
+[ESCÁNER] Iniciando escaneo de entrada...
+2026-09-07 23:38:37,842 | INFO | ❌ ERROR: No se pudo acceder a la cámara.
+2026-09-07 23:38:41,225 | INFO | ⚠️ Escaneo cancelado.
